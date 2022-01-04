@@ -1,15 +1,16 @@
-﻿Destination,FBScore,AvgHotStaRat,IncHotels,NumVisits
-France,2,3,20,250
-Belguim,1,3,15,175
-Austria,2,3,12,140
-Spain,5,4,20,375
-Canada,4,4,25,200
-Brazill,7,2,28,420
-Cuba,5,3,18,380
-Jamaica,10,4,19,450
-India,8,3,29,410
-Bali,10,5,30,550
-Seychelles,9,5,27,500
-Japan,3,3,15,300
-Chile,2,2,20,225
-USA,5,2,12,175
+﻿Destination,FBScore,AvgHotStaRat,IncHotels,MosVisitCity
+France,2,3,10,Paris
+Belguim,1,3,15,Brussels
+Austria,2,3,12,Vienna
+Spain,9,4,9,Barcelona
+Canada,4,4,18,Toronto
+Brazill,7,2,7,Rio de Janeiro
+Cuba,5,3,18,Havana
+Jamaica,10,4,19,Montego Bay
+India,8,3,15,Mumbai
+Bali,10,5,5,Jimbaran
+Seychelles,9,5,4,Victoria
+Japan,3,3,15,Kyoto
+Chile,2,2,8,Caldera
+USA,8,2,12,New York
+Tanzania,7,3,10,Arusha
